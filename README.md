@@ -18,5 +18,5 @@
 | Stefano | Scouts ⚜️ - UX Designer | |
 | Adam | Scouts ⚜️ - Digital Volunteer | |
 | Harley | Scouts ⚜️ - Digital Volunteer | | 
-| Stephanie | Scouts ⚜️ - Digital Volunteer | |
+| Stephanie | Scouts ⚜️ - Digital Volunteer | Product Owner |
 | Andrew | Scouts ⚜️ - Digital Volunteer | Scouter, software dev   |
